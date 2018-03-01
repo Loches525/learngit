@@ -1,0 +1,32 @@
+[
+  {
+    "username": "gua",
+    "password": "123",
+    "note": ""
+  },
+  {
+    "username": "gua1",
+    "password": "123",
+    "note": ""
+  },
+  {
+    "username": "alsdjflasd",
+    "password": "aslkdfjl",
+    "note": ""
+  },
+  {
+    "username": "asdfasdf",
+    "password": "asdf",
+    "note": ""
+  },
+  {
+    "username": "ggg",
+    "password": "mmm",
+    "note": ""
+  },
+  {
+    "username": "ggg",
+    "password": "mmm",
+    "note": "hhh"
+  }
+]
